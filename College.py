@@ -5,7 +5,7 @@ class College:
         else:
             print("non argumentive")
 
-    # This kind of concept is use to achive function overloding in python.
+    # This kind of concept is use to achieve function overloding in python.
 
 
 object = College()
